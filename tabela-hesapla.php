@@ -5,6 +5,8 @@
  * Description: Tabela fiyatlarını otomatik hesaplayan WordPress eklentisi
  * Version: 1.0.0
  * Author: Yusuf Kaan Çelik
+ * License: MIT
+ * License URI: https://github.com/yusufkaancelik/tabela-hesapla/blob/main/LICENSE
  * Text Domain: tabela-hesapla
  * Domain Path: /languages
  */
